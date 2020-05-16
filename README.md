@@ -9,6 +9,4 @@ Update me, please.
 - DenordTS/denord-core
 - Ser-Ames/Abstract
 - StarToLeft/DenoDiscord
-- chroventer/denocord
-- SharifPoetra/disdeno
 - TheDrone7/descord
