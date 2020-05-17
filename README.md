@@ -10,3 +10,8 @@ Update me, please.
 - Ser-Ames/Abstract
 - StarToLeft/DenoDiscord
 - TheDrone7/descord
+
+### The deceased
+
+- chroventer/denocord
+- SharifPoetra/disdeno
