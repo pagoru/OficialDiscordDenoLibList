@@ -9,6 +9,9 @@ Update me, please.
 - DenordTS/denord-core
 - Ser-Ames/Abstract
 - StarToLeft/DenoDiscord
+- TheDrone7/descord
+
+### The deceased
+
 - chroventer/denocord
 - SharifPoetra/disdeno
-- TheDrone7/descord
