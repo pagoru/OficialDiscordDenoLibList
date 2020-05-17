@@ -1,6 +1,8 @@
-### The list
+# The Oficial Discord Deno Lib List
 
 Update me, please.
+
+## The list
 
 - sunsetkookaburra/dinocord
 - Skillz4Killz/Discordeno
@@ -11,7 +13,7 @@ Update me, please.
 - StarToLeft/DenoDiscord
 - TheDrone7/descord
 
-### The deceased
+## The deceased
 
 - chroventer/denocord
 - SharifPoetra/disdeno
