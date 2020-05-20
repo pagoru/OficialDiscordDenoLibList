@@ -12,6 +12,7 @@ Update me, please.
 - [Ser-Ames/Abstract](https://github.com/Ser-Ames/Abstract)
 - [StarToLeft/DenoDiscord](https://github.com/StarToLeft/DenoDiscord)
 - [TheDrone7/descord](https://github.com/TheDrone7/descord)
+- [ansonfoong/Katana](https://github.com/ansonfoong/Katana)
 
 ## The deceased
 
