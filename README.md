@@ -18,3 +18,6 @@ Update me, please.
 
 - [chroventer/denocord](https://github.com/chroventer/denocord)
 - [SharifPoetra/disdeno](https://github.com/SharifPoetra/disdeno)
+
+-----
+![How Discord libs proliferate (https://xkcd.com/927)](https://cdn.discordapp.com/attachments/688040863313428503/712068831337775144/discord_libs.png)
